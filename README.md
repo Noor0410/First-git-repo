@@ -1,4 +1,4 @@
 # First-git-repo
 This is my first git repo.
 <br>
-Author: oor ul Haq.
+Author: Noor ul Haq.
